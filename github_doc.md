@@ -1,7 +1,9 @@
 ******First install OS: Ubuntu 16.04 LTS
 
 1.install  Git
+
 2.check the git version to confirm the installation
+
 3.configure Git for the first time
 
 ```
